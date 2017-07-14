@@ -21,8 +21,11 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
+      <mask>b9b9b9</mask>
+      <mask>b9b9b9b9b9b9</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
