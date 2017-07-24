@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\xampp\php\php.exe" id="124682cf-57b3-4163-94bd-a85d2c9d0463" name="PHP" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
@@ -119,7 +124,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="256M" />
             <configuration_option name="mysql.allow_local_infile" value="1" />
             <configuration_option name="mysql.allow_persistent" value="1" />
             <configuration_option name="mysql.connect_timeout" value="3" />
@@ -215,7 +220,7 @@
             <configuration_option name="soap.wsdl_cache" value="1" />
             <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
             <configuration_option name="soap.wsdl_cache_enabled" value="1" />
-            <configuration_option name="soap.wsdl_cache_limit" value="5" />
+            <configuration_option name="soap.wsdl_cache_limit" value="5S" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
             <configuration_option name="sqlite3.extension_dir" value="" />
@@ -297,7 +302,7 @@
             <configuration_option name="xdebug.profiler_output_dir" value="\" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
