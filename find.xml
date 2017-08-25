@@ -23,10 +23,6 @@
       <mask>*le</mask>
       <mask>le</mask>
       <mask>l</mask>
-      <mask>*</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.js</mask>
@@ -34,6 +30,10 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
