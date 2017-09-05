@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.lessc0c8d0</mask>
@@ -25,16 +25,16 @@
       <mask>le</mask>
       <mask>l</mask>
       <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
