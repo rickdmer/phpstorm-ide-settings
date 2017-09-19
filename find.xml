@@ -14,7 +14,6 @@
       <mask>*js</mask>
       <mask>*j</mask>
       <mask>*./</mask>
-      <mask>*./js</mask>
       <mask>*./j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
@@ -29,12 +28,13 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.ph</mask>
       <mask>p</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*./js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
