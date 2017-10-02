@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.100.205:9000/" />
+          <option name="name" value="RP Sonar" />
+          <option name="login" value="rick" />
+          <password>dfefdfd2dfdadfcfdfd8dfdedf9ddf9ddf92df9a</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
