@@ -5,11 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
-      <mask>*.lessc0c8d0</mask>
-      <mask>*.lessc\</mask>
-      <mask>*.lessc</mask>
-      <mask>b9b9b9</mask>
       <mask>b9b9b9b9b9b9</mask>
       <mask>*js</mask>
       <mask>*j</mask>
@@ -23,10 +20,7 @@
       <mask>*le</mask>
       <mask>le</mask>
       <mask>l</mask>
-      <mask>*.l</mask>
       <mask>*.j</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>p</mask>
       <mask>*.p</mask>
       <mask>*./js</mask>
@@ -36,6 +30,13 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.lx</mask>
+      <mask>*.l</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
