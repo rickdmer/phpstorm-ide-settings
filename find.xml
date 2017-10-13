@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>b9b9b9b9b9b9</mask>
       <mask>*js</mask>
       <mask>*j</mask>
       <mask>*./</mask>
@@ -17,23 +17,24 @@
       <mask>*le</mask>
       <mask>le</mask>
       <mask>l</mask>
-      <mask>p</mask>
-      <mask>*.p</mask>
       <mask>*./js</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.lx</mask>
-      <mask>*.l</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.x</mask>
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
+      <mask>p</mask>
+      <mask>php</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
