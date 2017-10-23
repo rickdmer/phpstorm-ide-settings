@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="map" type="JavaScript" />
       <mapping pattern="registrationRequest" type="TypeScript JSX" />
     </extensionMap>
   </component>
