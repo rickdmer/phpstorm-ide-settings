@@ -3,37 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.json</mask>
-      <mask>*l</mask>
-      <mask>*less</mask>
-      <mask>*les</mask>
-      <mask>*le</mask>
-      <mask>l</mask>
-      <mask>*./js</mask>
-      <mask>*.lx</mask>
-      <mask>*.x</mask>
-      <mask>*.xs</mask>
-      <mask>*.xsd</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>le</mask>
-      <mask>les</mask>
-      <mask>less</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.lj</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.less" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
