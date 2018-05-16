@@ -11,7 +11,11 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\xampp\php\php.exe" id="124682cf-57b3-4163-94bd-a85d2c9d0463" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\xampp\php\php.exe" id="124682cf-57b3-4163-94bd-a85d2c9d0463" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug-2.6.0-7.1-vc14.dll">
+        <configuration_options>
+          <configuration_option name="xdebug.remote_host" value="localhost" />
+        </configuration_options>
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -255,7 +259,7 @@
             <configuration_option name="xdebug.gc_stats_output_dir" value="C:\Windows\Temp" />
             <configuration_option name="xdebug.gc_stats_output_name" value="gcstats.%p" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="ECLIPSE_DBGP" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM_DBG" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
@@ -264,7 +268,7 @@
             <configuration_option name="xdebug.profiler_enable" value="1" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.profiler_output_dir" value="/tmp/xdebug/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
