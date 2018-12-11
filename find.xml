@@ -13,8 +13,8 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
