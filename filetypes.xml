@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="map" type="JavaScript" />
+      <mapping pattern="countMachineEntriesTemplate" type="PHP" />
       <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping pattern="registrationRequest" type="TypeScript JSX" />
     </extensionMap>
