@@ -13,9 +13,9 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.xsd</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
