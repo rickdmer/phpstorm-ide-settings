@@ -13,7 +13,7 @@
     <mask>*.css</mask>
     <mask>*.xsd</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
