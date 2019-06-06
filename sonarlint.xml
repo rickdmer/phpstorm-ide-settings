@@ -1,10 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="php:S105" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
