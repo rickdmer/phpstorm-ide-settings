@@ -4,6 +4,7 @@
       <mapping ext="map" type="JavaScript" />
       <mapping pattern="device-manager-service-status" type="PHP" />
       <mapping pattern="countMachineEntriesTemplate" type="PHP" />
+      <mapping ext="class" type="PHP" />
       <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping pattern="registrationRequest" type="TypeScript JSX" />
     </extensionMap>
