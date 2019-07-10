@@ -13,76 +13,12 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="124682cf-57b3-4163-94bd-a85d2c9d0463" name="PHP" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug-2.6.0-7.1-vc14.dll">
+      <interpreter id="124682cf-57b3-4163-94bd-a85d2c9d0463" name="PHP" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug.dll">
         <configuration_options>
           <configuration_option name="xdebug.remote_host" value="localhost" />
         </configuration_options>
       </interpreter>
     </interpreters>
-  </component>
-  <component name="PhpInterpretersPhpInfoCache">
-    <phpInfoCache>
-      <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.1.13">
-          <additional_php_ini />
-          <configuration_file>C:\xampp\php\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".;C:\perforce\TPS;C:\perforce\TPS\platform;C:\xampp\php\PEAR;C:\xampp\php\PEAR" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="apcu" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="soap" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-    </phpInfoCache>
   </component>
   <component name="PhpSmartKeysConfiguration">
     <option name="selectVariableNameWithoutDollar" value="true" />
