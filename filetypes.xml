@@ -7,6 +7,7 @@
       <mapping pattern="countMachineEntriesTemplate" type="PHP" />
       <mapping pattern="device-manager-service-status" type="PHP" />
       <mapping ext="class" type="PHP" />
+      <mapping ext="backup" type="PHP" />
       <mapping ext="pro" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
